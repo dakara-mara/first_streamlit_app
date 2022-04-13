@@ -1,4 +1,6 @@
 
-import streamlit
+import streamlit as s
 
-streamlit.title("test")
+s.title("test")
+s.header("The header")
+s.text("Lorem ipsum dolor sin amet.")
